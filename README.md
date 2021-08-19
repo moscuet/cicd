@@ -1,3 +1,3 @@
 # cicd
 
-![example workflow](https://github.com/moscuet/cicd/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+[![GitHub Actions Demo](https://github.com/moscuet/cicd/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/moscuet/cicd/actions/workflows/github-actions-demo.yml)
